@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Reemplaza por la imagen de Yape Monitor cuando esté lista -->
-  <img src="docs/yape-monitor.png" width="220" alt="Yape Monitor">
-</p>
-
 <h1 align="center">Yape Monitor — Backend API</h1>
 
 <div align="center">
